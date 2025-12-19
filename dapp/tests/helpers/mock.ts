@@ -343,7 +343,7 @@ export async function applyAllMocks(page) {
 
       export async function hasAnonymousVotingConfig(projectName) {
         return false;
-      }
+      } 
     `;
     route.fulfill({
       status: 200,
