@@ -1,3 +1,5 @@
+<img width="1000" height="563" alt="Thumbnail_small" src="https://github.com/user-attachments/assets/f42331d0-d0ba-4483-a2a2-c5ade94ce513" />
+
 # Tansu - Decentralized project governance on Stellar
 
 [![SCF Awards](https://img.shields.io/badge/SCF-28,30,41-blue)](https://github.com/your-org/tansu)
