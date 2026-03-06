@@ -18,7 +18,7 @@ mod events;
 mod tests;
 mod types;
 
-contractmeta!(key = "Description", val = "Tansu - Soroban Versioning");
+contractmeta!(key = "Description", val = "Tansu");
 
 #[contract]
 pub struct Tansu;
