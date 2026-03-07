@@ -79,7 +79,7 @@ fn register_name_too_long_error() {
 
     let name_long = String::from_str(
         &setup.env,
-        "soroban-versioningsoroban-versioningsoroban-versioningsoroban-versioning",
+        "tansutansutansutansu",
     );
     let url = String::from_str(&setup.env, "github.com/tansu");
     let ipfs = String::from_str(&setup.env, "2ef4f49fdd8fa9dc463f1f06a094c26b88710990");

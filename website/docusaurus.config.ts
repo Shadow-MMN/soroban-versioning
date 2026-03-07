@@ -23,7 +23,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   // organizationName: 'tansu', // Usually your GitHub org/user name.
-  // projectName: 'soroban-versioning', // Usually your repo name.
+  // projectName: 'tansu', // Usually your repo name.
 
   onBrokenLinks: "throw",
 
